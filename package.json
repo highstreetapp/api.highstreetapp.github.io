@@ -14,5 +14,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/highstreetapp/api.highstreetapp.github.io/issues"
+  },
+  "devDependencies": {
+    "sails-generate-api": "~0.10.0"
   }
 }
